@@ -1,2 +1,1 @@
-# GUI
-Simple GUI programs
+Simple GUI programs using scala
